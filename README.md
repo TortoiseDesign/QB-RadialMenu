@@ -1,6 +1,6 @@
 # qb-radialmenu
 Radial Menu Used With QB-Core :arrows_counterclockwise:
-Đã được việt hóa
+# Đã được việt hóa
 
 
 **Now using FontAwesome Icons!**
