@@ -6,7 +6,7 @@ To change icons get the name from [FontAwesome](https://fontawesome.com/v5.0/ico
 Hi, thank you for use my script, I'm very grateful!
 
 If you need help contact me on discord: Tortoise Design#9228
-
+ 
 Discord server: https://discord.gg/3GFKFPaxK3
 
 
